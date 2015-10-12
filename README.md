@@ -35,6 +35,10 @@
 
 `Dart`(1)
 
+`DSLR`(..)
+> Digital Single Lens Reflex Camera
+> （数码）单（镜头）反（光）相机
+
 ## E
 
 `Express`(2)
@@ -46,7 +50,12 @@
 ## G
 
 `Git`(2)
-> ：英语俚语，猪脑子却又自负的人
+> ：Linux之父开发的一款分布式版本控制系统。  
+> 然而它有从多角度理解的有趣的释义。
+> 本身它是英语俚语中指代猪脑子却又自负的人，或者说懒惰。Linus也自嘲说命名是自身的写照。  
+> Global Information tracker
+
+`Github`(5)
 
 `Golang`(1)
 
